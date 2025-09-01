@@ -22,7 +22,7 @@
 - 💼 I'm currently working on: **💻 Developing a TV application using Flutter**
 - 🌱 I'm currently learning: **📚 Exploring Microsoft Power Automate**
 - 💬 Ask me about: **💡 Flutter, Clean Code, Pocketbase, Appwrite, Firebase, Figma, UI / UX**
-- 📂 Portfolio: **<a href="😎 michael.tredat.com" target="_blank">😎 michael.tredat.com</a>**
+- 📂 Portfolio: **<a href="😎 michael.tredat.com" target="_blank">self.so/michaelamir</a>**
 
  **<h3 align="left">Skills</h3>**
 
