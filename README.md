@@ -19,7 +19,7 @@
 
 **<h3 align="left">Rapid Fire</h3>**
 
-- 💼 I'm currently working on: **💻 Developing a TV application using Flutter**
+- 💼 I'm currently working on: **💻 Developing a ride sharing application (like Uber) using Flutter**
 - 🌱 I'm currently learning: **📚 Exploring Microsoft Power Automate**
 - 💬 Ask me about: **💡 Flutter, Clean Code, Pocketbase, Appwrite, Firebase, Figma, UI / UX**
 
